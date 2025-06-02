@@ -6,6 +6,18 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "json-server": "^0.17.3"
-  }
+    "json-server": "^0.17.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MayconDoCarmo/TodolistRender.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MayconDoCarmo/TodolistRender/issues"
+  },
+  "homepage": "https://github.com/MayconDoCarmo/TodolistRender#readme",
+  "description": ""
 }
